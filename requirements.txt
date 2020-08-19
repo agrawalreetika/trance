@@ -1,0 +1,8 @@
+pyaudio
+gTTS
+pydub
+SpeechRecognition
+requests
+ln2sqlmodule
+pyhive
+pandas
